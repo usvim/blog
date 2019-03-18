@@ -14,5 +14,3 @@ draft: false
 https://www.xianmin.org/
 
 https://github.com/xianmin/hugo-theme-jane
-
-https://github.com/servicemesher/website
